@@ -1,0 +1,11 @@
+[project]
+name = "handoffs-poetry-log"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "connection>=2021.7.20",
+    "openai-agents>=0.2.3",
+    "py-dotenv>=0.1",
+]
